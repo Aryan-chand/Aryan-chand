@@ -5,6 +5,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="https://x.com/aryan050304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aryan050304" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/aryanchand0503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aryanchand0503" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/aryanchand05/?next=%2fstories%2fhighlights%2f17894606111393795%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aryanchand05/?next=%2fstories%2fhighlights%2f17894606111393795%2f" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/aryan_chand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aryan_chand" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/aryan-chand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryan-chand/" height="30" width="40" /></a>
+
 </p>
 
