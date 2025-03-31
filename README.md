@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F0DB4F&height=120&section=header&text=%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=33aaff&height=120&section=header&text=%20&fontSize=90" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aryan Chand</h1>
@@ -43,5 +43,5 @@ Connect with me on :
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F0DB4F&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=33aaff&height=80&section=footer"/>
 </p>
