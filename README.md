@@ -9,7 +9,7 @@
 📫 How to reach me **imaryan1803@gmail.com**
 
 - I am a Data rookie.
-- I am a graduate student in Computer Science at AKTU
+- I am a graduate student in Computer Science at AKTU.
 - I like to build beautiful data visualization and tell narratives behind
 - I’m currently learning: Python and its analytical packages & AI 
 
