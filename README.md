@@ -11,7 +11,7 @@
 - I am a Data rookie.
 - I am a graduate student in Computer Science at AKTU.
 - I like to build beautiful data visualization and tell narratives behind.
-- I’m currently learning: Python and its analytical packages & AI 
+- I’m currently learning: Python and its analytical packages & AI .
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
 ![](https://github-readme-stats.vercel.app/api?username=Aryan-chand&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
