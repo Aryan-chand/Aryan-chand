@@ -10,7 +10,7 @@
 
 - I am a Data rookie.
 - I am a graduate student in Computer Science at AKTU.
-- I like to build beautiful data visualization and tell narratives behind
+- I like to build beautiful data visualization and tell narratives behind.
 - I’m currently learning: Python and its analytical packages & AI 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
